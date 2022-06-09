@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314441691146",
+    "project_id": "fweb-uas",
+    "storage_bucket": "fweb-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314441691146:android:2266a6b06f5cf98a52aff3",
+        "android_client_info": {
+          "package_name": "com.a195411119.uas_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314441691146-rus165tdp2gdtuc8dij6moj7onmtjg7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtyf8QkoT9ruYJyQKyqXD9qHIdccf0z7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314441691146-rus165tdp2gdtuc8dij6moj7onmtjg7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
